@@ -1,4 +1,4 @@
-# Goodraedme 
+# GoodREADME
 
 using a command lin application create a dynamic README.md 
 
